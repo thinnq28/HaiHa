@@ -1064,7 +1064,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #sponsors {
-  padding: 60px 0;
+  padding: 20px 0;
 }
 
 #sponsors .sponsors-wrap {
@@ -1074,7 +1074,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #sponsors .sponsor-logo {
-  padding: 30px;
+  padding: 10px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1088,7 +1088,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-bottom: 1px solid #e0e5fa;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
-  height: 160px;
+  height: 600px;
 }
 
 #sponsors .sponsor-logo:hover img {
@@ -1156,8 +1156,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #subscribe {
-  padding: 60px;
-  background: url(../img/about-bg.png) center center no-repeat;
+  padding: 250px;
+  background: url(../img/thiepmoi.png) center center no-repeat;
   background-size: cover;
   overflow: hidden;
   position: relative;
